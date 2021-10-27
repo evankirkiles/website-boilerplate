@@ -1,0 +1,36 @@
+*,
+*::after,
+*::before {
+	box-sizing: border-box;
+	user-select: none;
+	transition: all 0.2s ease-in-out;
+}
+
+::-webkit-scrollbar {
+	display: none; /* for Chrome, Safari, and Opera */
+}
+
+html,
+body,
+#root {
+	height: 100%;
+	margin: 0;
+	padding: 0;
+
+	/* ENTER YOUR DEFAULT, NO-JS COLORS AND FONT HERE */
+	font-family: 'Futura';
+	background-color: #dbd19c;
+	color: #606060;
+}
+
+a {
+  text-decoration: none;
+	color: inherit;
+}
+
+@keyframes loaderAnim {
+	to {
+		opacity: 1;
+		transform: scale3d(0.5,0.5,1);
+	}
+}
