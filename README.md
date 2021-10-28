@@ -1,5 +1,3 @@
-# Website Template!
-
 <h1 align="center">
   <img src="https://user-images.githubusercontent.com/30581915/125809201-d119646e-fee8-4c16-993e-d16390ea8ab2.png" width="224px"/><br/>
   EVAN KIRKILES' WEBSITE TEMPLATE

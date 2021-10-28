@@ -36,7 +36,7 @@ const Contact: React.FC<{}> = React.memo(() => {
           or even just make a new connection.
         </p>
         <p>
-          my other social medias can be found below, all being <b>evankirkiles</b>:
+          my other social medias can be found below, all being <b>nobot0000</b>:
         </p>
         <S.MediaRow>
           <S.SocialMedia>
@@ -61,7 +61,7 @@ const Contact: React.FC<{}> = React.memo(() => {
           </S.SocialMedia>
         </S.MediaRow>
         and lastly,
-        <Link to="/files/evankirkiles_resume.pdf" target="_blank" download>
+        <Link to="/files/resume.txt" target="_blank" download>
           <S.ResumeDownload>my resume can be found <u>here</u> if you're a recruiter ;)</S.ResumeDownload>
         </Link>
       </S.Text>
